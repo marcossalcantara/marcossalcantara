@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, tudo em paz? 😁
 
-<!--
-**marcossalcantara/marcossalcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Muito bom ter você aqui. Me chamo Marcos Alcântara, tenho 24 anos, e tenho um sonho.
+Desde pequeno sempre gostei de tecnologia; fui professor e assistente administrativo, mas não me identifiquei. E após buscar me encontrar em outras áreas, esse ano me decidi por meu sonho, ser um bom profissional na área do Desenvolvimento Web. Ser um bom Desenvolvedor Front End.
 
-Here are some ideas to get you started:
+- 🎓 Cursando Tec. em Sistemas para Internet - IFRN/CN
+- 🌱 Estudando HTML, CSS e Javascript
+- 💻 Designer Social Media | Visual Identity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Aberto à boas ideias
+
+<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcoscontato.design@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcossalcantara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
