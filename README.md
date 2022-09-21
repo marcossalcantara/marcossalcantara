@@ -5,7 +5,8 @@ Desde pequeno sempre gostei de tecnologia; fui professor e assistente administra
 
 - 🎓 Cursando Tec. em Sistemas para Internet - IFRN/CN
 - 🌱 Estudando HTML, CSS e Javascript
-- 💻 Designer Social Media | Visual Identity
+- 
+- 💻 UI and UX Designer | Graphic Designer
 
 💬 Aberto à boas ideias
 
