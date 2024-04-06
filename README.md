@@ -1,8 +1,10 @@
 ### Olá, tudo bem? 😁
 
-- 🌱 Estudando HTML, CSS e Javascript
-- 💻 UI Designer
-- :black_nib: Graphic Designer
+Me chamo Marcos, tenho 26 anos e sou designer gráfico, UI Designer e desenvolvedor front end. Desenvolvo interfaces web, mobile e identidades visuais.
+
+- 💻:computer: HTML | CSS | Javascript | Bootstrap
+- :black_nib: Figma | Photoshop | Illustrator
+- :clapper: Capcut
 
 💬 Estou pronto:
 
