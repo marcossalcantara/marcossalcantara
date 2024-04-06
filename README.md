@@ -2,7 +2,7 @@
 
 Me chamo Marcos, tenho 26 anos e sou designer gráfico, UI Designer e desenvolvedor front end. Desenvolvo interfaces web, mobile e identidades visuais.
 
-- 💻 :computer: HTML | CSS | Javascript | Bootstrap
+- 💻 HTML | CSS | Javascript | Bootstrap
 - :black_nib: Figma | Photoshop | Illustrator
 - :clapper: Capcut
 
